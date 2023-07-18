@@ -1,11 +1,15 @@
-Program’s Purpose
+The purpose of this program is to track vehicles in line for a car wash. 
 
->> The purpose of this program is to keep track of vehicles that are in line for a car wash.
->> It uses a queue that is created in the form of a circularly linked list.
->> This allows for the program to easily go through the queue and helps the user keep track of each individual node.
->> The program also helps the user keep track of the type of vehicle that is in the queue.
->> It keeps track of cars and trucks and specifies which is being washed in the output.
->> The program also allows the user to know the license plate numbers and models of each car that is in the queue.
->> In a real-world scenario, this would allow the user to know the exact number of cars that were washed in case something were to happen.
->> It also helps the user understand how well business is going.
->> The dequeue and enqueue functions also allow the list to be easily manipulated whenever a car is washed or a new car enters the queue.
+It utilizes a circularly linked list to create a queue. 
+
+This enables easy traversal of the queue and helps the user monitor each node individually. 
+
+The program also assists the user in tracking the vehicle types in the queue, distinguishing between cars and trucks during output. 
+
+Additionally, the program provides the user with license plate numbers and car models for each vehicle in the queue. 
+
+In real-world scenarios, this information proves useful for determining the exact number of cars washed and addressing any incidents that may occur. 
+
+Moreover, it aids the user in assessing the business's performance. 
+
+The dequeue and enqueue functions facilitate convenient manipulation of the list when a car is washed or a new car enters the queue.
