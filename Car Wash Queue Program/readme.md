@@ -1,7 +1,8 @@
 Program’s Purpose
 
 >> The purpose of this program is to keep track of vehicles that are in line for a car wash.
->> It uses a queue that is created in the form of a circularly linked list. This allows for the program to easily go through the queue and helps the user keep track of each individual node.
+>> It uses a queue that is created in the form of a circularly linked list.
+>> This allows for the program to easily go through the queue and helps the user keep track of each individual node.
 >> The program also helps the user keep track of the type of vehicle that is in the queue.
 >> It keeps track of cars and trucks and specifies which is being washed in the output.
 >> The program also allows the user to know the license plate numbers and models of each car that is in the queue.
