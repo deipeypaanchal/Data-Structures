@@ -1,4 +1,4 @@
-// Authors: Group25 (Brett and Deipey)
+// Author: Deipey Paanchal
 
 // This is a header guard. It prevents the header file from being included multiple times in the same program.
 #ifndef HEADER_H
