@@ -1,5 +1,5 @@
-// Name: Deepey Panchal
-// U80305771
+Author: Deipey Paanchal
+
 // Champions Program
 
 #include <iostream>
